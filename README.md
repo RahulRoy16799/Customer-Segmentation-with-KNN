@@ -20,3 +20,5 @@ Annual Income
 Spending Score
 Applied K-Means with 6 clusters
 Created a new cluster column for segmentation
+
+Dataset Link: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data
