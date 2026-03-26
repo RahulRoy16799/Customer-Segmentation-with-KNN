@@ -2,6 +2,7 @@
 This project performs customer segmentation using the Mall Customers dataset by applying K-Means clustering on different feature combinations. The analysis focuses on identifying patterns in Annual Income, Spending Score, and Age to group customers into meaningful segments.
 
 K-Means Clustering:
+
 🔹 1. Income vs Spending Score
 Applied K-Means with 5 clusters
 Visualized clusters with centroids
